@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.jayway.maven.plugins.android.generation2</groupId>
+  <artifactId>android-maven-plugin</artifactId>
+  <versioning>
+    <latest>3.8.1-mmadev</latest>
+    <release>3.8.1-mmadev</release>
+    <versions>
+      <version>3.8.1-mmadev</version>
+    </versions>
+    <lastUpdated>20140122064210</lastUpdated>
+  </versioning>
+</metadata>
